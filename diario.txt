@@ -1,1 +1,2 @@
 Dia1: Explorando git
+Dia2: Aprendiendo sobre commits
